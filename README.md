@@ -6,6 +6,7 @@
 
 说"压到 20MB"，它自己算码率、定分辨率、挑预设，双遍编码把体积锁死。
 
+[![build](https://github.com/chokoketsu/VideoZip/actions/workflows/build.yml/badge.svg)](https://github.com/chokoketsu/VideoZip/actions/workflows/build.yml)
 [![GitHub](https://img.shields.io/badge/GitHub-chokoketsu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chokoketsu)
 [![License](https://img.shields.io/badge/License-MIT-2ea44f?style=for-the-badge)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/chokoketsu)
