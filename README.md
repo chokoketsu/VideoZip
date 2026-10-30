@@ -15,6 +15,8 @@
 
 </div>
 
+![界面预览](assets/screenshot.png)
+
 ---
 
 ## 这是什么
@@ -40,7 +42,7 @@ VideoZip 反过来做：**你只给它一个目标体积**（比如 20 MB），�
 
 ### 方式一：下载打包版
 
-到 [Releases](https://github.com/chokoketsu) 页面下载最新的 `VideoZip.exe`，双击即用。该文件由 GitHub Actions 从本仓库源码自动构建，本仓库不存放二进制。
+到 [Releases](https://github.com/chokoketsu/VideoZip/releases) 页面下载最新的 `VideoZip.exe`，双击即用。二进制不进仓库，由源码构建后作为 Release 附件分发。
 
 ### 方式二：从源码运行
 

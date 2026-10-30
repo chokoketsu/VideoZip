@@ -8,7 +8,9 @@ env/
 
 # ---- PyInstaller 构建产物 ----
 build/
+build_local/
 dist/
+dist_local/
 *.spec
 !build.spec
 
