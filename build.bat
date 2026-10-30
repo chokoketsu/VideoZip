@@ -25,7 +25,7 @@ python -m PyInstaller ^
     --noconfirm --clean ^
     --onefile --windowed ^
     --name VideoZip ^
-    --icon "assets\icon.ico" ^
+    --icon "%~dp0assets\icon.ico" ^
     --collect-all tkinterdnd2 ^
     --workpath build --distpath dist --specpath build ^
     videozip.py || goto :failed
