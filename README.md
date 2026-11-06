@@ -120,3 +120,7 @@ VideoZip/
 ## 许可
 
 [MIT](LICENSE) © 2026 chokoketsu
+
+---
+
+<sub>作者 <a href="https://github.com/chokoketsu">@chokoketsu</a> · 代码与文档在 AI 辅助下完成，功能均经实机验证</sub>
